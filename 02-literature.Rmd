@@ -1,3 +1,9 @@
 # Literature
 
 What is the recommended reading material?
+
+* Introduction to Data Science
+
+* Exploratory Data Analysis
+
+* Basic Statistics with R
